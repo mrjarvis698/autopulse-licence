@@ -1,1 +1,1 @@
-GKAutoPulse:false
+GKAutoPulse:true
